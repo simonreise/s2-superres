@@ -16,8 +16,7 @@ This package is based on [s2-superresolution] by UP42, which is based on [DSen-2
 ```
 git clone https://github.com/simonreise/s2-superres
 cd s2-superres
-python setup.py 
-install
+python setup.py install
 ```
 
 
